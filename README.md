@@ -1,1 +1,0 @@
-# .git-motor-racing-clib
